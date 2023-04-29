@@ -7,6 +7,11 @@ body {
   body {
     background-color: #000000;
     padding: 20px;
+    background-image: url('assets/back_ground.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
   }
   
   /* Set styles for header */
